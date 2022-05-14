@@ -1,2 +1,2 @@
 # cleararch
-源代码分发，使用linux-clear的arch衍生系统
+源代码分发，使用 linux-clear 内核的 archlinux 衍生系统
